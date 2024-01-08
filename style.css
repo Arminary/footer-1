@@ -148,7 +148,7 @@ footer {
 
 .other-columns ul a:hover {
     text-decoration: underline;
-    color: #282828;
+    color: gray;
 }
 
 .other-columns h3 {
@@ -175,7 +175,7 @@ footer {
   }
   
   .other-columns h3:hover::before {
-    width: 100%;
+    width: 50%;
   }
 
 
